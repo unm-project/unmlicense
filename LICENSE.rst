@@ -1,4 +1,4 @@
-Unm License
+Unm Software License (USL)
 ============
 
 Version 1.0  

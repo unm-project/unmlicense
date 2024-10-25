@@ -1,4 +1,4 @@
-# Unm License
+# Unm Software License (USL)
 
 **Version 1.0**  
 **Effective Date: 25 October 2024**
