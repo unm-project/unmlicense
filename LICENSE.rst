@@ -2,7 +2,7 @@ Unm Software License (USL)
 ============
 
 Version 1.0  
-Effective Date: 25 October 2024
+Effective Date: 26 October 2024
 
 This Software License Agreement outlines the terms under which you may use the software. By using this software, you agree to comply with these terms.
 
